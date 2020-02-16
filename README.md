@@ -1,5 +1,7 @@
 # RealtimeChatApp
 with Android and Firebase
 
-![Alt Text](https://media.giphy.com/media/f9Ac5rMBOJgosVs914/giphy.gif)
-![Alt Text](https://media.giphy.com/media/kypF2tHSooBDSPEJ1p/giphy.gif)
+<video width="45%" height="45%" controls>
+  <source src="https://github.com/EylemGokdemir05/RealtimeChatApp/blob/master/ChatApp/app/src/main/res/drawable/chateylem.mp4" type="video/mp4">
+  <source src="https://github.com/EylemGokdemir05/RealtimeChatApp/blob/master/ChatApp/app/src/main/res/drawable/chatanybody.mp4" type="video/mp4">
+</video>
